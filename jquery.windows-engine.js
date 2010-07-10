@@ -3,7 +3,7 @@
  *  @requires jQuery v1.2.6 or greater
  *  http://hernan.amiune.com/labs
  *
- *  Copyright (c)  Hernan Amiune (hernan.amiune.com)
+ *  Copyright(c)  Hernan Amiune (hernan.amiune.com)
  *  Licensed under MIT license:
  *  http://www.opensource.org/licenses/mit-license.php
  * 
